@@ -3,7 +3,7 @@
       "id": "1",
       "title": "Ingatlaniroda",
       "photo_url": "...",
-      "repo-link": "...",
+      "repo_link": "...",
       "topics": [
           "fetch API",
           "Set adatszerkezet",
@@ -12,38 +12,38 @@
           "checkboxok használata",
           "select használata"
       ],
-      "site-link": "https://hanakkristof.github.io/ingatlans/"
+      "site_link": "https://hanakkristof.github.io/ingatlans/"
   },
   {
       "id": "2",
       "title": "Flowers",
       "photo_url": "...",
-      "repo-link": "...",
+      "repo_link": "...",
       "topics": [
           "Fetch API használata",
           "adatok programozott renderelése",
           "reszponzív design"
       ],
-      "site-link": "https://hanakkristof.github.io/flowers/"
+      "site_link": "https://hanakkristof.github.io/flowers/"
   },
   {
       "id": "3",
       "title": "Profilok",
       "photo_url": "...",
-      "repo-link": "...",
+      "repo_link": "...",
       "topics": [
           "Reszponzív design",
           "Flexbox vs grid elrendezés",
           "Objektumok destrukturálása",
           "Popover"
       ],
-      "site-link": "https://hanakkristof.github.io/profilok/"
+      "site_link": "https://hanakkristof.github.io/profilok/"
   },
   {
       "id": "4",
       "title": "Search",
       "photo_url": "...",
-      "repo-link": "...",
+      "repo_link": "...",
       "topics": [
           "fetch API",
           "adatok szűrése",
@@ -52,19 +52,19 @@
           "Tailwind",
           "Popover API"
       ],
-      "site-link": "https://searchforrat.netlify.app/"
+      "site_link": "https://searchforrat.netlify.app/"
   },
   {
       "id": "2",
       "title": "Autok",
       "photo_url": "...",
-      "repo-link": "...",
+      "repo_link": "...",
       "topics": [
           "Javascript függvények",
           "Modularitás, tiszta kód",
           "Reszponzív design",
           "Tömbfüggvények"
       ],
-      "site-link": "https://hanakkristof.github.io/autok/"
+      "site_link": "https://hanakkristof.github.io/autok/"
   }
 ]
