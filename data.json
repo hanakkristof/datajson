@@ -2,8 +2,8 @@
   {
       "id": "1",
       "title": "Ingatlaniroda",
-      "photo_url": "...",
-      "repo_link": "...",
+      "photo_url": "https://res.cloudinary.com/diqdrrqfn/image/upload/v1742976688/rocksolid_ba2ero.png",
+      "repo_link": "https://github.com/hanakkristof/ingatlans",
       "topics": [
           "fetch API",
           "Set adatszerkezet",
@@ -17,8 +17,8 @@
   {
       "id": "2",
       "title": "Flowers",
-      "photo_url": "...",
-      "repo_link": "...",
+      "photo_url": "https://res.cloudinary.com/diqdrrqfn/image/upload/v1742976688/flowerss_kqyv2m.png",
+      "repo_link": "https://github.com/hanakkristof/flowers",
       "topics": [
           "Fetch API használata",
           "adatok programozott renderelése",
@@ -29,8 +29,8 @@
   {
       "id": "3",
       "title": "Profilok",
-      "photo_url": "...",
-      "repo_link": "...",
+      "photo_url": "https://res.cloudinary.com/diqdrrqfn/image/upload/v1742976688/profiles_uzhzm4.png",
+      "repo_link": "https://github.com/hanakkristof/profilok",
       "topics": [
           "Reszponzív design",
           "Flexbox vs grid elrendezés",
@@ -42,8 +42,8 @@
   {
       "id": "4",
       "title": "Search",
-      "photo_url": "...",
-      "repo_link": "...",
+      "photo_url": "https://res.cloudinary.com/diqdrrqfn/image/upload/v1742976688/rat_jqkraf.png",
+      "repo_link": "https://github.com/hanakkristof/ratsearch",
       "topics": [
           "fetch API",
           "adatok szűrése",
@@ -57,8 +57,8 @@
   {
       "id": "2",
       "title": "Autok",
-      "photo_url": "...",
-      "repo_link": "...",
+      "photo_url": "https://res.cloudinary.com/diqdrrqfn/image/upload/v1742976688/koccser_vcspvr.png",
+      "repo_link": "https://github.com/hanakkristof/autok",
       "topics": [
           "Javascript függvények",
           "Modularitás, tiszta kód",
